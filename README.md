@@ -17,5 +17,5 @@ O projeto contém uma classe principal chamada `Dicionario`, onde o dicionário 
 
 ## Tecnologias Utilizadas
 
-Java (JDK 8 ou superior)
-HashMap para implementação de Map
+- Java (JDK 8 ou superior)
+- HashMap para implementação de Map
